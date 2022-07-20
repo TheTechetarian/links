@@ -36,12 +36,12 @@ links:
     Color: '#1DA1F2'
     Icon-Class: fab fa-twitter
 
-    # CLUBHOUSE
-  - Name: Clubhouse
-    URL: https://www.clubhouse.com
-    Username:
-    Color: '#f1c40f'
-    Icon-Class: fas fa-hand-paper -mt-0.5
+  #   # CLUBHOUSE
+  # - Name: Clubhouse
+  #   URL: https://www.clubhouse.com
+  #   Username:
+  #   Color: '#f1c40f'
+  #   Icon-Class: fas fa-hand-paper -mt-0.5
     
     # LINKEDIN
   - Name: LinkedIn
