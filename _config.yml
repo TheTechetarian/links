@@ -2,7 +2,7 @@
 name: Techetarian
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: Howdy, I'm Harsh Trivedi. I'm a passionate Tech Lover from Kanpur, apart from that I'm a Graphic Designer and an OpenSource enthusiast Inspired by Imagination.
+tagline: Technology Simplified
 
 # YOUR/BRAND IMAGE URL
 Image_URL: https://github.com/techetarian.png
@@ -71,13 +71,13 @@ links:
     Color: '#e17055'
     Text_Color: '#ffffff'
 
-    # TWITCH
-  - Name: Twitch
-    URL: 'https://twitch.tv'
-    Username: 
-    Icon-Class: fab fa-twitch
-    Color: '#9147fe'
-    Text_Color: '#ffffff'
+  #   # TWITCH
+  # - Name: Twitch
+  #   URL: 'https://twitch.tv'
+  #   Username: 
+  #   Icon-Class: fab fa-twitch
+  #   Color: '#9147fe'
+  #   Text_Color: '#ffffff'
 
     # VIMEO
   - Name: Vimeo
@@ -123,27 +123,27 @@ links:
     Text_Color: '#000000'
     Icon-Class: fab fa-snapchat-ghost
 
-    # DISCORD
-  - Name: Discord
-    URL: 'https://discord.gg/x99SEEHN'
-    Username: 
-    Icon-Class: fab fa-discord
-    Color: '#5865F2'
-    Text_Color: '#ffffff'
+  #   # DISCORD
+  # - Name: Discord
+  #   URL: 'https://discord.gg/x99SEEHN'
+  #   Username: 
+  #   Icon-Class: fab fa-discord
+  #   Color: '#5865F2'
+  #   Text_Color: '#ffffff'
 
-    # PINTEREST
-  - Name: Pinterest
-    URL: https://pinterest.com
-    Username: 
-    Color: '#E60023'
-    Icon-Class: fab fa-pinterest
+  #   # PINTEREST
+  # - Name: Pinterest
+  #   URL: https://pinterest.com
+  #   Username: 
+  #   Color: '#E60023'
+  #   Icon-Class: fab fa-pinterest
 
-    # BEHANCE
-  - Name: Behance
-    URL: https://www.behance.net
-    Username: 
-    Color: '#1769ff'
-    Icon-Class: fab fa-behance
+  #   # BEHANCE
+  # - Name: Behance
+  #   URL: https://www.behance.net
+  #   Username: 
+  #   Color: '#1769ff'
+  #   Icon-Class: fab fa-behance
 
   #   # DRIBBBLE
   # - Name: Dribbble
@@ -152,35 +152,35 @@ links:
   #   Color: '#ea4c89'
   #   Icon-Class: fab fa-dribbble
 
-    # DEVIANTART
-  - Name: DeviantArt
-    URL: https://www.deviantart.com
-    Username: 
-    Icon-Class: fab fa-deviantart
-    Color: '#05CC46'
-    Text_Color: '#ffffff'
+  #   # DEVIANTART
+  # - Name: DeviantArt
+  #   URL: https://www.deviantart.com
+  #   Username: 
+  #   Icon-Class: fab fa-deviantart
+  #   Color: '#05CC46'
+  #   Text_Color: '#ffffff'
 
-    # FIGMA
-  - Name: Figma
-    URL: https://www.figma.com
-    Username: 
-    Icon-Class: fab fa-figma
-    Color: '#ff2865'
-    Text_Color: '#ffffff'
+  #   # FIGMA
+  # - Name: Figma
+  #   URL: https://www.figma.com
+  #   Username: 
+  #   Icon-Class: fab fa-figma
+  #   Color: '#ff2865'
+  #   Text_Color: '#ffffff'
 
-    # SPOTIFY
-  - Name: Spotify
-    URL: http://open.spotify.com/user
-    Username: 
-    Color: '#1DB954'
-    Icon-Class: fab fa-spotify
+  #   # SPOTIFY
+  # - Name: Spotify
+  #   URL: http://open.spotify.com/user
+  #   Username: 
+  #   Color: '#1DB954'
+  #   Icon-Class: fab fa-spotify
 
-    # SOUNDCLOUD
-  - Name: SoundCloud
-    URL: https://www.soundcloud.com
-    Username: 
-    Color: '#FE5000'
-    Icon-Class: fab fa-soundcloud
+  #   # SOUNDCLOUD
+  # - Name: SoundCloud
+  #   URL: https://www.soundcloud.com
+  #   Username: 
+  #   Color: '#FE5000'
+  #   Icon-Class: fab fa-soundcloud
 
   #    # TIKTOK
   # - Name: TikTok
@@ -189,21 +189,21 @@ links:
   #   Color: '#FE2C55'
   #   Icon-Class: fab fa-tiktok
 
-    # MEDIUM
-  - Name: Medium
-    URL: 'https://medium.com'
-    Username: 
-    Icon-Class: fab fa-medium-m
-    Color: '#00ab6c'
-    Text_Color: '#ffffff'
+  #   # MEDIUM
+  # - Name: Medium
+  #   URL: 'https://medium.com'
+  #   Username: 
+  #   Icon-Class: fab fa-medium-m
+  #   Color: '#00ab6c'
+  #   Text_Color: '#ffffff'
 
-    # DEV.TO
-  - Name: Dev.to
-    URL: 'https://dev.to'
-    Username: 
-    Icon-Class: fab fa-dev
-    Color: '#ffffff'
-    Text_Color: '#000000'
+  #   # DEV.TO
+  # - Name: Dev.to
+  #   URL: 'https://dev.to'
+  #   Username: 
+  #   Icon-Class: fab fa-dev
+  #   Color: '#ffffff'
+  #   Text_Color: '#000000'
 
   #   # TUMBLR
   # - Name: Tumblr
